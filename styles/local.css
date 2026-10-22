@@ -11,10 +11,10 @@
 }
 
 .lots__card-list-item {
-    list-style: none;
     padding: 0;
     margin: 0;
     width: 334px;
+    min-height: 596px;
     position: relative;
     z-index: 1;
 }
@@ -26,7 +26,6 @@
 }
 
 .card {
-    height: 596px;
     box-sizing: border-box;
     background-size: cover;
     background-position: center;
