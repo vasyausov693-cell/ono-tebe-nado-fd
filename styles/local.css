@@ -1,0 +1,38 @@
+.bet-button {
+    border: 1px solid #fff;
+    background: transparent;
+    padding: 12px 32px 11px 31px;
+    font-family: inherit;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    color: #fff;
+}
+
+.lots__card-list-item {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 334px;
+    position: relative;
+    z-index: 1;
+}
+
+.card-link {
+    display: block;
+    height: 100%;
+    text-decoration: none;
+}
+
+.card {
+    height: 596px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+}
+
